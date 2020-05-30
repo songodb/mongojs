@@ -1,6 +1,6 @@
 {
   "name": "@songodb/mongojs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Use MongoDB update, sort, and projection operations in JavaScript. A good complement to Sift.",
   "main": "index.js",
   "scripts": {
